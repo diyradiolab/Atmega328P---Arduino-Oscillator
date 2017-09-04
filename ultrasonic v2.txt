@@ -11,8 +11,8 @@ int main() {
 
 //known frequency settings for ultrasonic
 //timer0 - prescaler = 8; count = 25; frequency output is 40250
-//timer0 - prescaler = 1; count = 200; frequency output is 41592
-//timer0 - prescaler = 8; count = 24; frequency output is 42400
+//timer1 - prescaler = 1; count = 200; frequency output is 41592
+//timer2 - prescaler = 8; count = 24; frequency output is 42400
 
 //these constants determine the output frequency and
 //the option to select a prescaler of 1 or 8
